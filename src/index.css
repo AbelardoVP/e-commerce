@@ -3,3 +3,8 @@ body {
   padding: 20px 60px;
   font-family: 'Shadows Into Light', cursive;
 }
+
+a{
+  text-decoration: none;
+  color: black
+}
